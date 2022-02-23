@@ -188,8 +188,8 @@ export default {
     handleRowSelectionAll(selection) {
       this.$emit('selectAll', selection)
     },
-    handleClick(row) {
-      this.$emit('handleClick', row)
+    handleClick(item, row) {
+      this.$emit('handleClick', item, row)
     },
     _toString
   }

@@ -1,4 +1,4 @@
-# EL-MODEL
+# EL MODEL
 基于element ui对表单提交的封装el form model，以及基于element ui和el form model对表格的封装el table model
 
 ## 目录
